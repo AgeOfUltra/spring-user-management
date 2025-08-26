@@ -136,5 +136,3 @@ src/main/resources
 └─ application.properties
 ```
 
-## License
-Not specified.
